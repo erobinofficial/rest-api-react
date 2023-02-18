@@ -1,0 +1,6 @@
+.countries-container{
+    display: grid;
+    justify-content: space-between;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px 20px;
+}
